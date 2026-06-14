@@ -456,3 +456,5 @@ All endpoints return errors in this format:
 | 404 | Resource not found |
 | 409 | Duplicate record |
 | 500 | Internal server error |
+# Fintech-API
+Assignment-ExternalAPI
